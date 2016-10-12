@@ -1,1 +1,1 @@
-# python_matplotlib_parabol_cizdirme
+Matplotlib Parabol Çizdirme
